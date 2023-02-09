@@ -36,4 +36,4 @@ Run the Executable installer.
 Add Python to PATH environmental variables
 To verify the python installation through the command line. Open command prompt and type “python”.
 16. Is indentation required in python?
-A. Indentation is mandatory in python to define the blocks of statements. The number of spaces must be uniform in a block of code. It is preferred to use whitespaces instead of tabs to indent in python.
+A. Indentation is mandatory in python to define the blocks of statements. The number of spaces must be uniform in a block of code. It is preferred to use whitespaces instead of tabs to indent in python
